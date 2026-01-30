@@ -13,8 +13,6 @@ Bu proje, bilgisayar kamerası aracılığıyla el hareketlerini algılayarak ba
 * **Kütüphaneler:** OpenCV, MediaPipe, PySerial (Haberleşme için)
 * **Donanım:** Arduino (LED devresi ile)
 
-## 🎥 Proje Görselleri
-*(Buraya elini kameraya tuttuğun ve LED'in yandığı bir fotoğraf veya GIF eklersen harika olur!)*
 
 ## 🚀 Çalıştırma Talimatları
 1. Gerekli kütüphaneleri yükleyin: `pip install opencv-python mediapipe pyserial`
